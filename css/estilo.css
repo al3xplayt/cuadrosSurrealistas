@@ -137,3 +137,10 @@ td a:hover{
     color: #666; 
     text-decoration: underline;
 }
+
+footer{
+    text-align: center;
+    padding: 1rem;
+    color: #fff;
+    background-color: #666;
+}
